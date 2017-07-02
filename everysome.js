@@ -9,3 +9,6 @@ function checkUsersValid(goodUsers) {
 }
 
 module.exports = checkUsersValid
+
+
+// didn't get that well
